@@ -11,7 +11,7 @@
   <img align="center" alt="Gatlyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gatlyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </div>
-  <img align="right" alt="Gatlyn-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/fa/b6/12/fab612ed02ac00d17c7fbeb9b266e5b5.jpg">
+  <img align="right" alt="Gatlyn-pic" height="150" style="border-radius:50px;" src="https://gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat-1.gif">
   
   ##
  
