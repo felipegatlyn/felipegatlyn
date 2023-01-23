@@ -5,7 +5,7 @@
   <img align="center" alt="Gatlyn-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gatlyn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   </div>
-  <img align="right" alt="Gatlyn-pic" height="150" style="border-radius:50px;" src="https://tenor.com/bqrUA.gif">
+  <img align="right" alt="Gatlyn-pic" height="150" style="border-radius:50px;" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
   
   ##
  
